@@ -18,6 +18,6 @@
 ## Quem sou eu:
 Sou um estudante da Universidade do Estado do Rio de Janeiro(UERJ) do campus zona oeste. Atualmente estou no início da carreira e tenho me voltado principalmente a me tornar um desenvolvedor full-stack. Sou uma pessoa muito generalista e gosto de aprender sobre tudo, estou em constante aprendizado sobre a área de tecnologia.
 
-### Meus Sistemas: 
+### Sistemas que utilizo: 
 ![Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
