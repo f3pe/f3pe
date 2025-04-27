@@ -10,7 +10,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=f3pe&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats) 
 
-<img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f3pe&layout=compact" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f3pe&exclude_repo=Estudos,buscaInformada,Inteligeligencia-computacional-I&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contato:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-coutinho-silva/)
