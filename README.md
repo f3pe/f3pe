@@ -7,7 +7,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=f3pe&show_icons=true&theme=github_dark_dimmed" /> <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f3pe&layout=compact" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=f3pe&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats) 
+
+<img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f3pe&layout=compact" />
 
 ### Contato:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-coutinho-silva/)
